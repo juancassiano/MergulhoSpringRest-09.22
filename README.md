@@ -108,7 +108,7 @@ Corpo em JSON
 [Postman](https://www.postman.com/)
 ## Ferramentas
 
-<div style="display: flex space-between">
+<div style="display: flex justify-content:space-between">
 
 <img align="center" height="50" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="center" height="50" width="50" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
