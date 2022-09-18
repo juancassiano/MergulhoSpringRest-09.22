@@ -82,7 +82,7 @@ Corpo em JSON
 ```
 {
     "descricao": "Tentativa sem sucesso"
-},
+}
 ```
 
 
