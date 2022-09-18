@@ -6,7 +6,7 @@
 # Projeto desenvolvido durante o Mergulho Spring Rest - Setembro de 2022 - Pela Algaworks.
 
 
-# Modelo relacional da aplicação desenvolvida.
+## Modelo relacional da aplicação desenvolvida.
 
 
 <img alt="Logo" src="https://github.com/juancassiano/MergulhoSpringRest-09.22/blob/main/assets/diagrama.png">
