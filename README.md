@@ -108,8 +108,7 @@ Corpo em JSON
 [Postman](https://www.postman.com/)
 ## Ferramentas
 
-<div style="display: inline_block><br>
-
+<div style="display: inline_block"><br>
 
 <img align="center" height="50" width="150" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img align="center" height="50" width="150" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
