@@ -83,6 +83,7 @@ Corpo em JSON
 {
     "descricao":"Tentativa sem sucesso (não estava em casa)"
 }
+
 ```
 
 #### Retorna as ocorrências de determinada entrega passada no parâmetro
