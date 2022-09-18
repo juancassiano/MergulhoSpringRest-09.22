@@ -30,7 +30,7 @@ Corpo em JSON
 ```http
  GET /clientes
 ```
-#### Attualiza os dados do cliente especificado no parâmetro
+#### Atualiza os dados do cliente especificado no parâmetro
 ```http
  PUT /clientes/{id}
  ```
@@ -79,12 +79,12 @@ Corpo em JSON
  GET /entregas/{id}/ocorrencias
 ```
 Corpo em JSON
-````
-{
-    "descricao":"Tentativa sem sucesso (não estava em casa)"
-}
-
 ```
+{
+    "descricao": "Tentativa sem sucesso"
+},
+```
+
 
 #### Retorna as ocorrências de determinada entrega passada no parâmetro
 ```http
