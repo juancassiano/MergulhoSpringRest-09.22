@@ -1,6 +1,7 @@
 
 # Algalog
-![]("https://github.com/juancassiano/MergulhoSpringRest-09.22/blob/main/assets/diagrama.png")
+<img alt="Logo" src="https://github.com/juancassiano/MergulhoSpringRest-09.22/blob/main/assets/diagrama.png">
+
 
 Projeto desenvolvido durante o Mergulho Spring Rest - Setembro de 2022 - Pela Algaworks
 
